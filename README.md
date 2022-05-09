@@ -1,1 +1,1 @@
-# rock-paper-scissors-game
+# day-4-project-game-rock-paper-scissors
